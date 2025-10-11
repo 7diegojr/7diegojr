@@ -14,8 +14,8 @@
 ##
 
 <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=7diegojr&show_icons=true&count_private=true&hide_border=true&title_color=964ef5&icon_color=964ef5&text_color=ffff&bg_color=0d1117" alt="Ana Borges github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7diegojr&layout=compact&hide_border=true&title_color=964ef5&text_color=ffff&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=7diegojr&show_icons=true&count_private=true&hide_border=true&title_color=4380ff&icon_color=964ef5&text_color=ffff&bg_color=0d1117" alt="Diego Junior github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7diegojr&layout=compact&hide_border=true&title_color=4380ff&text_color=ffff&bg_color=0d1117" />
 </div>
 
 
